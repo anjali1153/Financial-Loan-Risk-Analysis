@@ -1,1 +1,1 @@
-# Financial-Loan-Risk-Analysis
+# Financial-Loan-Risk-EDA
